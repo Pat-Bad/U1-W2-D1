@@ -39,7 +39,7 @@ Null, cioè l'esplicita assenza di valore. Lo utilizzo quando voglio esplicitame
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
-/* let myName = 'Badji'
+/* myName = 'Badji'
 const myName = 'Patricia Badji'*
 /* lanciando console.log(myName), il risultato è Uncaught SyntaxError: Identifier 'myName' has already been declared (at index.js:8:5) */
 
@@ -57,7 +57,7 @@ let total = two - x*/
 */
 /* let name1 = 'john'
 let name2 = 'John'
-name1 === name2 
+let total = name1 === name2 
 
 let fine = name1 === name2.toLowerCase()
 console.log(fine)*/
