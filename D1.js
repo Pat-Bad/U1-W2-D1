@@ -40,8 +40,7 @@ Null, cioè l'esplicita assenza di valore. Lo utilizzo quando voglio esplicitame
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 /* let myName = 'Badji'
-const myName = 'Patricia Badji'*/
-
+const myName = 'Patricia Badji'*
 /* lanciando console.log(myName), il risultato è Uncaught SyntaxError: Identifier 'myName' has already been declared (at index.js:8:5) */
 
 /* ESERCIZIO 6
@@ -58,4 +57,5 @@ let total = two - x*/
 */
 /* let name1 = 'john'
 let name2 = 'John'
-name1 === name2 */
+name1 === name2 
+fullname = name1 !== name2*/
