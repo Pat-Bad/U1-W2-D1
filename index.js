@@ -17,7 +17,6 @@ let name1 = 'john'
 let name2 = 'John'
 let fullname = name1 === name2
 console.log(fullname)
-fullname = name1 !== name2
-console.log(fullname)
-name1 = 'john' === name2.toLowerCase()
+
+let name1 = 'john' === name2.toLowerCase()
 console.log(fullname)
