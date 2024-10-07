@@ -58,4 +58,6 @@ let total = two - x*/
 /* let name1 = 'john'
 let name2 = 'John'
 name1 === name2 
-name1(john) === name2.toLowerCase(John)*/
+
+let fine = name1 === name2.toLowerCase()
+console.log(fine)*/
